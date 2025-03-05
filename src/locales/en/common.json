@@ -1,0 +1,21 @@
+{
+    "title": "Hello, World!",
+    "navbar": [
+        {
+            "label": "Home",
+            "href": "#top"
+        },
+        {
+            "label": "Experience",
+            "href": "/en/#work-experience"
+        },
+        {
+            "label": "Projects",
+            "href": "/en/#projects"
+        },
+        {
+            "label": "About me",
+            "href": "/en/#about-me"
+        }
+    ]
+}

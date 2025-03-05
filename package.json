@@ -14,8 +14,12 @@
         "@astrojs/mdx": "^4.1.0",
         "@astrojs/rss": "^4.0.11",
         "@astrojs/sitemap": "^3.2.1",
+        "@astrolicious/i18n": "^0.6.1",
         "@tailwindcss/vite": "^4.0.9",
         "astro": "^5.4.2",
+        "astro-i18n": "^2.2.4",
+        "astro-icon": "^1.1.5",
+        "i18n": "^0.15.1",
         "tailwindcss": "^4.0.9"
     },
     "devDependencies": {
